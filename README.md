@@ -28,6 +28,6 @@
 
  <div>
   <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a> 
-  <a href = "mailto: rodrignucleo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: rodrignucleo@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrignucleo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
