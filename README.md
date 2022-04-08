@@ -1,4 +1,4 @@
-## Hello 👋, I'm Rodrigo Ribeiro!
+## Hello, I'm Rodrigo Ribeiro!
 
 <div>
 
