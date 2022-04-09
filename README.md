@@ -28,15 +28,15 @@
 
 ### Meus Contatos:
 
- <div>
-  <a alingn="center" href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
-  <a alingn="center" href="https://www.instagram.com/rodrignucleo/" target=""><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target=""></a>
-  <a alingn="center" href = "mailto: rodrignucleo@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target=""></a>
-  <a alingn="center" href="https://www.linkedin.com/in/rodrignucleo/" target=""><img src="https://img.icons8.com/color/48/000000/linkedin.png" target=""></a>
+ <div alingn="center">
+  <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
+  <a href="https://www.instagram.com/rodrignucleo/" target=""><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target=""></a>
+  <a href = "mailto: rodrignucleo@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target=""></a>
+  <a href="https://www.linkedin.com/in/rodrignucleo/" target=""><img src="https://img.icons8.com/color/48/000000/linkedin.png" target=""></a>
 </div>
 
    
 ### Cliques no meu Perfil: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/rodrignucleo/count.svg" />
+   <img src="https://profile-counter.glitch.me/rodrignucleo/count.svg" />
  </p>
