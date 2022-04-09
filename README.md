@@ -1,4 +1,5 @@
-## Hello, I'm Rodrigo Ribeiro!
+## Olá, meu nome é Rodrigo!!
+- 20 anos
 
 <div>
 
@@ -27,7 +28,8 @@
 ### Contact me:
 
  <div>
-  <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
+  <a href="https://www.instagram.com/rodrignucleo/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
   <a href = "mailto: rodrignucleo@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrignucleo/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
 </div>
