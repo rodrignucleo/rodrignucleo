@@ -21,7 +21,7 @@
   <a href="https://docs.python.org/3/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
  <a href="https://laravel.com/docs/9.x" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /> </a>
-
+ <a href="https://reactnative.dev/docs/getting-started" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react neative" width="40" height="40" /> </a>
 
 </p>
 
