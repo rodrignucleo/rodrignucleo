@@ -7,15 +7,15 @@
 ### GitHub Status e Linguagens mais usadas:
  
   <div>
-  <a alingn="center" href="https://github.com/rodrignucleo">
-  <img alingn="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img alingn="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=16&theme=radical"/>
+  <a href="https://github.com/rodrignucleo">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=16&theme=radical"/>
 <div>
 
    </div> 
- <h3 alingn="center" align="left">Linguagens e Ferramentas:</h3>
+ <h3 align="left">Linguagens e Ferramentas:</h3>
 
-<p align="center">
+<p>
  <a href="https://docs.oracle.com/en/java/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
  <a href="https://dev.mysql.com/doc/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://docs.python.org/3/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
