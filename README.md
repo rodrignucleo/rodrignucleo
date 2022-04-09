@@ -38,5 +38,5 @@
    
 ### Clicks no Perfil: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/MatheusOliveira-1/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/rodrignucleo/count.svg" />
  </p>
