@@ -4,7 +4,7 @@
 
 <div>
 
-### GitHub Stats and Most Used Languages:
+### GitHub Status e Linguagens mais usadas:
  
   <div>
   <a href="https://github.com/rodrignucleo">
@@ -13,7 +13,7 @@
 <div>
 
    </div> 
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
  <a href="https://docs.oracle.com/en/java/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -26,7 +26,7 @@
 </p>
 
 
-### Contact me:
+### Meus Contatos:
 
  <div>
   <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
@@ -36,7 +36,7 @@
 </div>
 
    
-### Clicks no Perfil: <br>
+### Cliques no meu Perfil: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/rodrignucleo/count.svg" />
  </p>
