@@ -35,3 +35,8 @@
   <a href="https://www.linkedin.com/in/rodrignucleo/" target=""><img src="https://img.icons8.com/color/48/000000/linkedin.png" target=""></a>
 </div>
 
+   
+### Clicks no Perfil: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/MatheusOliveira-1/count.svg" />
+ </p>
