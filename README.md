@@ -1,5 +1,5 @@
 ## Olá, meu nome é Rodrigo!!
-- 20 anos
+- <img src="https://img.icons8.com/color/25/000000/birthday.png" target="_blank">20 anos
 
 <div>
 
