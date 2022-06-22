@@ -1,5 +1,5 @@
 ## Olá, meu nome é Rodrigo!!
-- <img src="https://img.icons8.com/color/40/000000/birthday.png" target="_blank">20 anos
+- <img src="https://img.icons8.com/color/40/000000/birthday.png" target="_blank">21 anos
 - <img src="https://img.icons8.com/emoji/48/000000/pirate-flag.png"/> Ciência da Computação - UTFPR
 
 <div>
