@@ -1,6 +1,7 @@
 ## Olá, meu nome é Rodrigo!!
-- <img src="https://img.icons8.com/color/40/000000/birthday.png" target="_blank">22 anos
+- <img src="https://img.icons8.com/color/40/000000/birthday.png" target="_blank">23 anos
 - <img src="https://img.icons8.com/emoji/48/000000/pirate-flag.png"/> Ciência da Computação - UTFPR
+- <img src="https://img.icons8.com/emoji/48/000000/pirate-flag.png"/> Master in Computer Science - IPB
 
 <div>
 
