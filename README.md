@@ -38,22 +38,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrignucleo&theme=dracula&hide_border=true" alt="streak stats" />
-</div>
-
-<br>
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rodrignucleo&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 <br>
