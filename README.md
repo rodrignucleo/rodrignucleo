@@ -7,8 +7,6 @@
     🎓 <b>M.Sc. Computer Science</b> - IPB
   </p>
 
-  <br>
-
   <p>
     <a href="https://www.linkedin.com/in/rodrignucleo/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,26 +28,9 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://docs.oracle.com/en/java/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-    </a>
-    <a href="https://docs.python.org/3/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    </a>
-    <a href="https://dev.mysql.com/doc/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
-    </a>
-    <a href="https://laravel.com/docs">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/>
-    </a>
-    <a href="https://getbootstrap.com/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
-    </a>
-    <a href="https://reactnative.dev/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="50" height="50"/>
-    </a>
-  </div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,java,mysql,python,angular&theme=dark" />
+  </a>
 </div>
 
 <br>
@@ -57,8 +38,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrignucleo&theme=dracula&hide_border=true" alt="streak stats" />
+</div>
+
+<br>
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rodrignucleo&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 <br>
