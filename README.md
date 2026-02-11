@@ -14,9 +14,6 @@
     <a href="mailto:rodrignucleo@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
     </a>
-    <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0">
-      <img src="https://skillicons.dev/icons?i=whatsapp&theme=dark"/>
-    </a>
   </p>
 </div>
 
@@ -25,7 +22,7 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,java,mysql,python,angular,aws,kotlin,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,java,mysql,python,linux,angular,aws,kotlin,react,arch&theme=dark" />
 </div>
 
 <br>
