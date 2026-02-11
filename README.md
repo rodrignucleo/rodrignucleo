@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/rodrignucleo/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
     </a>
     <a href="mailto:rodrignucleo@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
