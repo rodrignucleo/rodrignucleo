@@ -9,16 +9,13 @@
 
   <p>
     <a href="https://www.linkedin.com/in/rodrignucleo/">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
     </a>
     <a href="mailto:rodrignucleo@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
     </a>
     <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-    <a href="https://www.instagram.com/rodrignucleo/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://skillicons.dev/icons?i=whatsapp&theme=dark"/>
     </a>
   </p>
 </div>
