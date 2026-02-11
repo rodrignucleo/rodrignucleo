@@ -28,9 +28,7 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,java,mysql,python,angular&theme=dark" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=flutter,java,mysql,python,angular,aws,kotlin,react&theme=dark" />
 </div>
 
 <br>
