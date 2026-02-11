@@ -1,36 +1,68 @@
-## Olá, meu nome é Rodrigo!!
-- <img src="https://img.icons8.com/color/40/000000/birthday.png" target="_blank"> 24 anos
-- <img src="https://img.icons8.com/emoji/48/000000/pirate-flag.png"/> Ciência da Computação - UTFPR
-- <img src="https://img.icons8.com/emoji/48/000000/pirate-flag.png"/> Master in Computer Science - IPB
+<div align="center">
+  <h1>Hi there, I'm Rodrigo! 👋</h1>
+  <h3>Computer Scientist | Master's Student</h3>
+  
+  <p>
+    🎓 <b>B.Sc. Computer Science</b> - UTFPR<br>
+    🎓 <b>M.Sc. Computer Science</b> - IPB
+  </p>
 
-<div>
+  <br>
 
-### GitHub Status e Linguagens mais usadas:
- 
-  <div>
-  <a href="https://github.com/rodrignucleo">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=16&theme=radical"/>
-<div>
+  <p>
+    <a href="https://www.linkedin.com/in/rodrignucleo/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:rodrignucleo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    <a href="https://www.instagram.com/rodrignucleo/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
 
-   </div> 
- <h3 align="left">Linguagens e Ferramentas:</h3>
+<hr>
 
-<p>
- <a href="https://docs.oracle.com/en/java/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://dev.mysql.com/doc/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://docs.python.org/3/" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
- <a href="https://laravel.com/docs/9.x" target=""> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /> </a>
- <a href="https://reactnative.dev/docs/getting-started" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react neative" width="40" height="40" /> </a>
+### 🛠️ Languages & Tools
 
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://docs.oracle.com/en/java/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+    </a>
+    <a href="https://docs.python.org/3/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    </a>
+    <a href="https://dev.mysql.com/doc/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+    </a>
+    <a href="https://laravel.com/docs">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/>
+    </a>
+    <a href="https://getbootstrap.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+    </a>
+    <a href="https://reactnative.dev/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="50" height="50"/>
+    </a>
+  </div>
+</div>
 
+<br>
 
-### Meus Contatos:
+### 📊 GitHub Stats
 
- <div alingn="center">
-  <a href="https://api.whatsapp.com/send/?phone=5511992668225&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
-  <a href="https://www.instagram.com/rodrignucleo/" target=""><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target=""></a>
-  <a href = "mailto: rodrignucleo@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target=""></a>
-  <a href="https://www.linkedin.com/in/rodrignucleo/" target=""><img src="https://img.icons8.com/color/48/000000/linkedin.png" target=""></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rodrignucleo&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
 </div>
