@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Rodrigo! 👋</h1>
-  <h3>Computer Scientist</h3>
   
   <p>
     🎓 <b>B.Sc. Computer Science</b> - UTFPR<br>
