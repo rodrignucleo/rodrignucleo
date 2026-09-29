@@ -3,7 +3,7 @@
   
   <p>
     🎓 <b>B.Sc. Computer Science</b> - UTFPR<br>
-    🎓 <b>M.Sc. Computer Science</b> - IPB
+    🎓 <b>M.Sc. Computer Science</b> - UPB
   </p>
 
   <p>
